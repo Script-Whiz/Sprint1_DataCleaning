@@ -1,6 +1,6 @@
-Sprint1_DataCleaning
+# Sprint1_DataCleaning
 
-Data cleaning, and basic EDA project.
+## Overview: Data cleaning, and basic EDA project.
 
 on GitHub:
-https://github.com/Script-Whiz/Sprint1_DataCleaning/blob/main/notebooks/Sprint1_DataCleaning_ver2.ipynb
+[Sprint1 Data Cleaning](https://github.com/Script-Whiz/Sprint1_DataCleaning/blob/main/notebooks/Sprint1_DataCleaning_ver3_final.ipynb)
